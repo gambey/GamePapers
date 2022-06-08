@@ -1,2 +1,2 @@
 # GamePapers
-Mothologies for Video Games
+Mothologies for Video Games Creation
